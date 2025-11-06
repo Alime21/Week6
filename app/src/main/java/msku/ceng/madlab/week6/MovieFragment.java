@@ -60,6 +60,7 @@ public class MovieFragment extends Fragment {
                 Arrays.asList(new String[]{"Tim Robbins", "Morgan Freeman", "Bob Gunton"}),
                 "Two imprisoned men bond over a number of years, " +
                         "finding solace and eventual redemption through acts of common decency."));
+
         movies.add(new Movie("The Godfather","Francis Ford Coppola",1972,
                 Arrays.asList(new String[]{"Marlon Brando", "Al Pacino", " James Caan"}),
                 "The aging patriarch of an organized crime dynasty transfers control of his "
